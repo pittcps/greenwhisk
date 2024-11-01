@@ -1,0 +1,7 @@
+Algorithm,Total Avg Latency (mins),,Algorithm,Cold Starts,Warm Starts,,Algorithm,Cold Starts,Warm Starts
+Consistent,0.23,,Consistent,105,67,,Consistent,835,244
+OpenWhisk,0.22,,OpenWhisk,107,65,,OpenWhisk,833,246
+Greedy,0.27,,Greedy,115,57,,Greedy,908,171
+GreenWhisk,0.22,,GreenWhisk,108,64,,GreenWhisk,854,225
+,,,,,,,,,
+,,,rare,,,,medium,,
